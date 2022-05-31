@@ -1,6 +1,5 @@
 # NEXT x LIKELION - Hackathon Project
 
-
 Mentors
  * 박한영 (멋쟁이사자처럼 10기 운영진)
  * 이재아 (멋쟁이사자처럼 10기 운영진)
@@ -20,11 +19,15 @@ Participants
 
 <img src='./src/header_kr.png'><br/><br/><br/>
 
-<div style='display: flex; flex-direction: row; justify-content: center; align-items: center;'>
+<div align='center'>
   <img src='./src/vertical_page_templates_home2_kr.png' width=32%>
+  <span>&nbsp;</span>
   <img src='./src/vertical_page_templates_team_kr.png' width=32%>
+  <span>&nbsp;</span>
   <img src='./src/vertical_page_templates_result_kr.png' width=32%>
-<div/><br/><br/><br/>
+</div>
+  
+<br/><br/><br/>
 
 # Code
 
