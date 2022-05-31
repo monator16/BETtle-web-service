@@ -1,0 +1,15 @@
+배틀은 대결상대를 연결해주고 상금을 승리자에게 부여하는 온라인 플랫폼 서비스입니다.
+
+BETtle is an online platform service that connects opponents and grants prize money to the winner.
+
+각 이용자는 Bullte이 주어지는데, 이를 정해진 숫자만큼 걸고서 경기를 진행하게 됩니다.
+
+Each user is given a Bullte, and the game proceeds by betting a set number of them.
+
+다양한 옵션을 설정하여, 상대팀을 검색하고 매칭을 신청할 수 있습니다.
+
+By setting various options, you can search for suitable opponents and apply for matching.
+
+라이엇 게임즈 API를 이용하여, 경기의 승패 여부를 바로 검증합니다.
+
+Using the Riot Games API, immediately verify whether a match has been won or lost.

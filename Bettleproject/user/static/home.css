@@ -7,7 +7,7 @@ body {
 }
 
 .background {
-    background-image: url("../../static/홈배경.png");
+    background-image: url("../../static/home_wallpaper.png");
     background-image: no-repeat;
     min-height:100vh;
     height: 140vh;
