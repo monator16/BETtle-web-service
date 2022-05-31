@@ -18,14 +18,17 @@ Participants
 # Introduction
 
 <img src='./src/header_kr.png'><br/><br/><br/>
+<img src='./src/header_templates_home2_en.png'><br/><br/><br/>
+<img src='./src/header_templates_team2_en.png'><br/><br/><br/>
+<img src='./src/header_templates_result2_en.png'><br/><br/><br/>
 
-<div align='center'>
+<!-- <div align='center'>
   <img src='./src/vertical_page_templates_home2_kr.png' width=32%>
   <span>&nbsp;</span>
   <img src='./src/vertical_page_templates_team_kr.png' width=32%>
   <span>&nbsp;</span>
   <img src='./src/vertical_page_templates_result_kr.png' width=32%>
-</div>
+</div> -->
   
 <br/><br/><br/>
 
