@@ -21,9 +21,9 @@ Participants
 <img src='./src/header_kr.png'><br/><br/><br/>
 
 <div style='display: flex; flex-direction: row; justify-content: center; align-items: center;'>
-  <img src='./src/vertical_page_templates_home_kr.png' width=33%>
-  <img src='./src/vertical_page_templates_team_kr.png' width=33%>
-  <img src='./src/vertical_page_templates_result_kr.png' width=33%>
+  <img src='./src/vertical_page_templates_home_kr.png' width=31%>
+  <img src='./src/vertical_page_templates_team_kr.png' width=31%>
+  <img src='./src/vertical_page_templates_result_kr.png' width=31%>
 <div/><br/><br/><br/>
 
 # Code
