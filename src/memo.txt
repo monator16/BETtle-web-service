@@ -6,7 +6,7 @@ BETtle is an online platform service that connects opponents and grants prize mo
 
 Each user is given a Bullte, and the game proceeds by betting a set number of them.
 
-다양한 옵션을 설정하여, 상대팀을 검색하고 매칭을 신청할 수 있습니다.
+다양한 옵션을 설정하여, 적절한 상대팀을 검색하고 매칭을 신청할 수 있습니다.
 
 By setting various options, you can search for suitable opponents and apply for matching.
 
