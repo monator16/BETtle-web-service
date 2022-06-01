@@ -17,7 +17,7 @@ Participants
 
 # Introduction
 
-<img src='./src/header_kr.png'><br/><br/><br/>
+<img src='./src/header_en.png'><br/><br/><br/>
 <img src='./src/header_templates_home2_en.png'><br/><br/><br/>
 <img src='./src/header_templates_team2_en.png'><br/><br/><br/>
 <img src='./src/header_templates_result2_en.png'><br/><br/><br/>
